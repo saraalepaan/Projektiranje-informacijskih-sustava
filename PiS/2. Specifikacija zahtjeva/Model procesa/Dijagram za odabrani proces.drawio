@@ -1,0 +1,105 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.1.6">
+  <diagram name="Page-1" id="zduVy6dfjKjA0TJLEc-O">
+    <mxGraphModel dx="2343" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="za0bsN0UPCFEmzYyC3yH-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="za0bsN0UPCFEmzYyC3yH-7" target="za0bsN0UPCFEmzYyC3yH-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-20" y="353" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="za0bsN0UPCFEmzYyC3yH-7" value="STUDENT" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="70" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="za0bsN0UPCFEmzYyC3yH-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="za0bsN0UPCFEmzYyC3yH-8" target="za0bsN0UPCFEmzYyC3yH-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="za0bsN0UPCFEmzYyC3yH-31" value="&lt;span&gt;PODACI O REZERAVACIJI KNJIGE&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="za0bsN0UPCFEmzYyC3yH-20" vertex="1" connectable="0">
+          <mxGeometry y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="za0bsN0UPCFEmzYyC3yH-8" value="P4.2" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
+          <mxGeometry x="304" y="240" width="236" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="za0bsN0UPCFEmzYyC3yH-9" value="REZERVACIJA KNJIGE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="za0bsN0UPCFEmzYyC3yH-8" vertex="1">
+          <mxGeometry x="41" y="60" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="za0bsN0UPCFEmzYyC3yH-10" value="P4.1" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="304" y="30" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="za0bsN0UPCFEmzYyC3yH-11" value="PROVJERA DOSTUPNOSTI KNJIGE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="za0bsN0UPCFEmzYyC3yH-10" vertex="1">
+          <mxGeometry y="70" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="za0bsN0UPCFEmzYyC3yH-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="za0bsN0UPCFEmzYyC3yH-12" target="za0bsN0UPCFEmzYyC3yH-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="za0bsN0UPCFEmzYyC3yH-37" value="STATUS REZERVACIJE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="za0bsN0UPCFEmzYyC3yH-21" vertex="1" connectable="0">
+          <mxGeometry x="-0.2444" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="za0bsN0UPCFEmzYyC3yH-12" value="P4.3" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="317" y="450" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="za0bsN0UPCFEmzYyC3yH-13" value="OBRADA REZERVACIJE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="za0bsN0UPCFEmzYyC3yH-12" vertex="1">
+          <mxGeometry x="28" y="50" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="za0bsN0UPCFEmzYyC3yH-14" value="P4.4" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="287" y="700" width="270" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="za0bsN0UPCFEmzYyC3yH-15" value="&lt;div&gt;OBAVIJEST O POTVRĐENOJ REZERVACIJI&lt;/div&gt;&lt;div&gt;ILI O STAVLJANJU NA LISTU ČEKANJA&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="za0bsN0UPCFEmzYyC3yH-14" vertex="1">
+          <mxGeometry y="55" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="za0bsN0UPCFEmzYyC3yH-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.233;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="za0bsN0UPCFEmzYyC3yH-7" target="za0bsN0UPCFEmzYyC3yH-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="107" />
+              <mxPoint x="210" y="107" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="za0bsN0UPCFEmzYyC3yH-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.466;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="za0bsN0UPCFEmzYyC3yH-10" target="za0bsN0UPCFEmzYyC3yH-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="za0bsN0UPCFEmzYyC3yH-29" value="INFORMACIJA O DOSTUPNOSTI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="za0bsN0UPCFEmzYyC3yH-19" vertex="1" connectable="0">
+          <mxGeometry x="-0.169" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="za0bsN0UPCFEmzYyC3yH-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="za0bsN0UPCFEmzYyC3yH-22" target="za0bsN0UPCFEmzYyC3yH-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="za0bsN0UPCFEmzYyC3yH-22" value="KNJIŽNIČAR" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="za0bsN0UPCFEmzYyC3yH-23" value="ZAHTJEV ZA PROVJERU DOSTUPNOSTI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="60" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="za0bsN0UPCFEmzYyC3yH-25" value="ZAHTJEV ZA REZERVACIJU" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="320" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="za0bsN0UPCFEmzYyC3yH-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="za0bsN0UPCFEmzYyC3yH-15" target="za0bsN0UPCFEmzYyC3yH-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="za0bsN0UPCFEmzYyC3yH-36" value="ŠALJE SE OBAVIJEST O POTVRĐENOJ REZERVACIJI ILI O STAVLJANJU NA LISTU ČEKANJA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="690" width="340" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="za0bsN0UPCFEmzYyC3yH-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.119;entryY=1.044;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="za0bsN0UPCFEmzYyC3yH-12" target="za0bsN0UPCFEmzYyC3yH-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="za0bsN0UPCFEmzYyC3yH-47" value="PREGLED REZERVACIJE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="za0bsN0UPCFEmzYyC3yH-46" vertex="1" connectable="0">
+          <mxGeometry x="0.5097" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="za0bsN0UPCFEmzYyC3yH-40" value="PROMJENA STATUSA REZERVACIJE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="530" y="460" width="260" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
